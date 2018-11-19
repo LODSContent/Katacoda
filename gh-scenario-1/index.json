@@ -1,11 +1,10 @@
 {
-  "title": "My First Scenario",
-  "description": "Learning how to educate via Katacoda",
+  "title": "GitHub Scenario 1",
+  "description": "Testing Katacoda via GitHub",
   "details": {
     "steps": [
       { "title": "Title", "text": "step1.md" },
-      { "title": "Goes", "text": "step2.md" },
-      { "title": "Here", "text": "step3.md" }
+      { "title": "Goes", "text": "step2.md" }
     ],
     "intro": {
       "text": "intro.md",
