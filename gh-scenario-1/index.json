@@ -1,6 +1,7 @@
 {
   "title": "GitHub Scenario 1",
   "description": "Testing Katacoda via GitHub",
+  "time": "30-60 Minutes",
   "details": {
     "steps": [
       { "title": "Title", "text": "step1.md" },
